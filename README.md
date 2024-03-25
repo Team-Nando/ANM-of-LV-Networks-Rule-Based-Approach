@@ -1,7 +1,7 @@
-# ANM-of-LV-Networks-Rule-Based-Approach
+# ANM of LV Networks - Rule-Based Approach
 
 The objectives of this tutorial are:
-1. To familiarise with the process by which power engineers can assess the benefits from adopting active network management solutions in LV networks with solar PV. To achieve this, you will investigate how the flexibility of certain network elements or technologies can be exploited to improve voltages.
+1. To familiarise with the process by which power engineers can assess the benefits of adopting active network management solutions in LV networks with solar PV. To achieve this, you will investigate how the flexibility of certain network elements or technologies can be exploited to improve voltages.
 
 2. To continue familiarising with the advanced tool [OpenDSS](https://www.epri.com/pages/sa/opendss) (using Python and the [dss_python](https://github.com/dss-extensions/dss_python) module module). And, to guide you, all will be done using a notebook on [Jupyter Notebook](https://jupyter.org/).
 
@@ -9,10 +9,10 @@ All the instructions on how to download the files and install all the necessary 
 
 1. Download all the files using the green **`<> Code`** button at the top right.
    - You will get a ZIP file with a folder that contains all the files.
-   - Unzip the file an place the folder somewhere in your computer/laptop.
-3. To open the Jupyter notebook file (extension **`ipynb`**) you need to:
+   - Unzip the file and place the folder somewhere on your computer/laptop.
+3. To open the Jupyter Notebook file (extension **`ipynb`**) you need to:
    - Open Anaconda Navigator
-   - Click on Launch Jupyter notebook (it will open in your browser)
+   - Click on Launch Jupyter Notebook (it will open in your browser)
    - Upload the unzipped folder (with all the corresponding files) to Jupyter Notebook (the location is up to you)
    - Go inside the folder and open the **`ipynb`** file
 
