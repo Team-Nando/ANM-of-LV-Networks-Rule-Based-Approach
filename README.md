@@ -1,6 +1,6 @@
-# Active-Network-Management-of-LV-Networks-A-Rule-Based-Approach
+# ANM-of-LV-Networks-Rule-Based-Approach
 
-The objectives of this workshop are:
+The objectives of this tutorial are:
 1. To familiarise with the process by which power engineers can assess the benefits from adopting active network management solutions in LV networks with solar PV. To achieve this, you will investigate how the flexibility of certain network elements or technologies can be exploited to improve voltages.
 
 2. To continue familiarising with the advanced tool [OpenDSS](https://www.epri.com/pages/sa/opendss) (using Python and the [dss_python](https://github.com/dss-extensions/dss_python) module module). And, to guide you, all will be done using a notebook on [Jupyter Notebook](https://jupyter.org/).
